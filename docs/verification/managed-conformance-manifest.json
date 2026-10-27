@@ -1,0 +1,201 @@
+{
+  "manifest_id": "ecm_6d3710db035b59290bb13502d2f853d3b2736fbd8b86d3de484387d7df5be71b",
+  "verifier": {
+    "id": "rea-managed-conformance",
+    "version": "1"
+  },
+  "environment": {
+    "platform": "portable",
+    "architecture": "portable",
+    "runtime": "node",
+    "runtime_version": "portable"
+  },
+  "skill_digests": [
+    {
+      "skill_id": "reverse-engineer-anything",
+      "sha256": "b48c5b5b84e1a333d8f5039777ad1b62d3e6656fa5b5ecf6ce1da70316f0d9f2"
+    }
+  ],
+  "claims": [
+    {
+      "claim_id": "managed.application-graph-projection",
+      "scenario": {
+        "id": "managed-application-graph-projection",
+        "version": 1
+      },
+      "artifact_sha256s": [
+        "f0beac7b739748b4b9980e66e1bbfbb13b068032830d970d2accf3792916d24b"
+      ],
+      "provider": {
+        "id": "rea-managed-conformance",
+        "version": "1"
+      }
+    },
+    {
+      "claim_id": "managed.decompiler-reconstruction-import",
+      "scenario": {
+        "id": "decompiler-reconstruction-import",
+        "version": 1
+      },
+      "artifact_sha256s": [
+        "48bc002850d997675f053fc85e7bc118f74de3bddb642bb54a91290f96cf799e"
+      ],
+      "provider": {
+        "id": "rea-managed-conformance",
+        "version": "1"
+      }
+    },
+    {
+      "claim_id": "managed.dotnet-framework-x86-pinvoke",
+      "scenario": {
+        "id": "dotnet-framework-x86-pinvoke",
+        "version": 1
+      },
+      "artifact_sha256s": [
+        "f0beac7b739748b4b9980e66e1bbfbb13b068032830d970d2accf3792916d24b"
+      ],
+      "provider": {
+        "id": "rea-managed-conformance",
+        "version": "1"
+      }
+    },
+    {
+      "claim_id": "managed.ilspy-reconstruction-oracle",
+      "scenario": {
+        "id": "ilspy-reconstruction-oracle",
+        "version": 1
+      },
+      "artifact_sha256s": [],
+      "provider": {
+        "id": "rea-managed-conformance",
+        "version": "1"
+      }
+    },
+    {
+      "claim_id": "managed.malformed-metadata",
+      "scenario": {
+        "id": "malformed-metadata",
+        "version": 1
+      },
+      "artifact_sha256s": [
+        "ab4dd4d06ce86889dd500e3d79961e5df59ca9bfee1cc955bdcf3b58d563f61b"
+      ],
+      "provider": {
+        "id": "rea-managed-conformance",
+        "version": "1"
+      }
+    },
+    {
+      "claim_id": "managed.managed-native-verification",
+      "scenario": {
+        "id": "managed-native-verification",
+        "version": 1
+      },
+      "artifact_sha256s": [
+        "9999999999999999999999999999999999999999999999999999999999999999",
+        "f0beac7b739748b4b9980e66e1bbfbb13b068032830d970d2accf3792916d24b"
+      ],
+      "provider": {
+        "id": "rea-managed-conformance",
+        "version": "1"
+      }
+    },
+    {
+      "claim_id": "managed.modern-dotnet-anycpu",
+      "scenario": {
+        "id": "modern-dotnet-anycpu",
+        "version": 1
+      },
+      "artifact_sha256s": [
+        "6454178c9bc9b61004ee69455e3b238d669e3e616099b3fbfda2fffa89180d21"
+      ],
+      "provider": {
+        "id": "rea-managed-conformance",
+        "version": "1"
+      }
+    },
+    {
+      "claim_id": "managed.mvid-and-token-drift",
+      "scenario": {
+        "id": "mvid-and-token-drift",
+        "version": 1
+      },
+      "artifact_sha256s": [
+        "37b1461ad56d22353ce568e61ea85b24aaeb4661415760d7bf7f5d8de2fe0b97",
+        "b0b08192cbeb3a6062330fabd46b307dff19143cfcd661c6ca81816afbec01d0"
+      ],
+      "provider": {
+        "id": "rea-managed-conformance",
+        "version": "1"
+      }
+    },
+    {
+      "claim_id": "managed.not-managed",
+      "scenario": {
+        "id": "not-managed",
+        "version": 1
+      },
+      "artifact_sha256s": [
+        "79f7bba239769459519dd13802aef23e8b35acf69e6718fdb36ff653bd41cc59"
+      ],
+      "provider": {
+        "id": "rea-managed-conformance",
+        "version": "1"
+      }
+    },
+    {
+      "claim_id": "managed.operator-local-manifest",
+      "scenario": {
+        "id": "operator-local-manifest",
+        "version": 1
+      },
+      "artifact_sha256s": [],
+      "provider": {
+        "id": "rea-managed-conformance",
+        "version": "1"
+      }
+    },
+    {
+      "claim_id": "managed.operator-manifest-self-test",
+      "scenario": {
+        "id": "operator-manifest-self-test",
+        "version": 1
+      },
+      "artifact_sha256s": [
+        "62d278b7af9f40b96142cf6b5b6daf9e3c0c366ba6b403d6cac2846722edd576"
+      ],
+      "provider": {
+        "id": "rea-managed-conformance",
+        "version": "1"
+      }
+    },
+    {
+      "claim_id": "managed.unicode-obfuscated-identifiers",
+      "scenario": {
+        "id": "unicode-obfuscated-identifiers",
+        "version": 1
+      },
+      "artifact_sha256s": [
+        "48bc002850d997675f053fc85e7bc118f74de3bddb642bb54a91290f96cf799e"
+      ],
+      "provider": {
+        "id": "rea-managed-conformance",
+        "version": "1"
+      }
+    },
+    {
+      "claim_id": "managed.x64-ready-to-run-native-body",
+      "scenario": {
+        "id": "x64-ready-to-run-native-body",
+        "version": 1
+      },
+      "artifact_sha256s": [
+        "c06fddd8a65fc16ace0882bf4124400103ca11567d1f592bf931b1b71f4b94df"
+      ],
+      "provider": {
+        "id": "rea-managed-conformance",
+        "version": "1"
+      }
+    }
+  ]
+}

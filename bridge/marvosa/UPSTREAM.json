@@ -1,0 +1,20 @@
+{
+  "marvosa": {
+    "repository": "https://github.com/Ajordon30005/marvosa",
+    "commit": "c53cbd0b9e00db1668bae0594a9167ea19487cb8",
+    "source_directory": "hcl-ai",
+    "files_sha256": {
+      "engine/hcl_engine.py": "c2e23d62a5107491adde8129ce174f3857573a372f414e2233865d438746749a",
+      "engine/hcl_memory.py": "18ed771ec110e7f1db572e1f4ed8a5230e49f2d9abb7022550f4e96159f0b07e",
+      "engine/juj.py": "f8f6ae868dcde875866c2d4edc63c1be011d39e2dc0041e281ae9461eeb07e43",
+      "engine/living_memory.py": "a34192e7399259d57ed2126caea2511a42ee288b705fdcd804ca3a50b83b31f2",
+      "mind/hcl_lm.py": "8e0f080b652b6b741e2a41f805d70410ddd71344e8f15d3e8b93e2fa9f2c6707"
+    }
+  },
+  "rea": {
+    "repository": "https://github.com/morluto/rea",
+    "commit": "bd5d189a8f8aeea669bcb93e68af6c046b567939",
+    "package_name": "rea-agents",
+    "version": "6.7.0"
+  }
+}
